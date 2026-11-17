@@ -7,7 +7,7 @@
 **Ad-Free YouTube Streaming, Spotify-Style Background Music, 4K Gallery Downloads & AI Time-Travel Search (2005–2026) for Android**
 
 [![Official Website](https://img.shields.io/badge/Website-timetubeai.site-F59E0B?style=for-the-badge&logo=cloudflare&logoColor=white)](https://timetubeai.site)
-[![Download APK](https://img.shields.io/badge/Download-TimeTube--AI--v1.4.0.apk-22C55E?style=for-the-badge&logo=android&logoColor=white)](https://github.com/CodewithAsif396/timetube-ai/releases/download/v1.4.0/TimeTube-AI-v1.4.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-TimeTube--AI--v1.7.0.apk-22C55E?style=for-the-badge&logo=android&logoColor=white)](https://github.com/CodewithAsif396/timetube-ai/releases/download/v1.7.0/TimeTube-AI-v1.7.0.apk)
 [![Built by](https://img.shields.io/badge/Built%20by-Mubarah%20Solutions-111827?style=for-the-badge)](https://timetubeai.site)
 
 **[Official Website](https://timetubeai.site)** • **[Direct APK Download](https://timetubeai.site/download)** • **[User Guide](https://timetubeai.site/guide)** • **[Articles & Blog](https://timetubeai.site/blog)** • **[FAQ](https://timetubeai.site/faq)**
@@ -19,7 +19,7 @@
 ## Official Links
 
 - **Official Website:** [https://timetubeai.site](https://timetubeai.site)
-- **Direct APK Download:** [https://timetubeai.site/download](https://timetubeai.site/download) (or [GitHub Releases v1.4.0](https://github.com/CodewithAsif396/timetube-ai/releases/download/v1.4.0/TimeTube-AI-v1.4.0.apk))
+- **Direct APK Download:** [https://timetubeai.site/download](https://timetubeai.site/download) (or [GitHub Releases v1.7.0](https://github.com/CodewithAsif396/timetube-ai/releases/download/v1.7.0/TimeTube-AI-v1.7.0.apk))
 - **User Guide & Setup:** [https://timetubeai.site/guide](https://timetubeai.site/guide)
 - **SEO Guides & Comparisons:** [https://timetubeai.site/blog](https://timetubeai.site/blog)
 - **Privacy Policy:** [https://timetubeai.site/privacy](https://timetubeai.site/privacy)
